@@ -1,4 +1,4 @@
-from app.calculator import Calculator
+from app.Calculator import Calculator
 
 class TestCalc:
     def setup(self):
